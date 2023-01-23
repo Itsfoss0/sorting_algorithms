@@ -75,3 +75,37 @@ What is the time complexity of the “push” operation onto a stack?
 * [ ] O(nlog(n))
 * [ ] O(n^2)
 
+#### Question #5
+What is the time complexity of this function/algorithm
+```c
+void f(int n)
+{
+    int i;
+    int j;
+
+    for (i = 0; i < n; i++)
+    {
+        if (i % 2 == 0)
+        {
+            for (j = 1; j < n; j = j * 2)
+            {
+                printf("[%d] [%d]\n", i, j);
+            }
+        }
+        else
+        {
+            for (j = 0; j < n; j = j + 2)
+            {
+                printf("[%d] [%d]\n", i, j);
+            }
+        }
+    }
+}
+```
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [X] O(n^2)
