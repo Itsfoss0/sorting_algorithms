@@ -445,3 +445,23 @@ foreach($numbers as $number)
 * [ ] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #31
+What is the time complexity of the following algorithm
+```c
+int Fibonacci(int number)
+{
+    if (number <= 1) return number;
+
+    return Fibonacci(number - 2) + Fibonacci(number - 1);
+}
+```
+* [ ] O(n!)
+* [X] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
+
+
