@@ -347,3 +347,28 @@ What is the time complexity of setting value at index n in an unsorted Python 3 
 * [X] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #25
+What is the time complexity of the following function/algorithm
+```c
+void f(int n)
+{
+     int i;
+     int j;
+
+     for (i = 0; i < n; i++)
+     {
+          for (j = i + 1; j < n; j++)
+          {
+               printf("[%d] [%d]\n", i, j);
+          }
+     }
+}
+```
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [X] O(n^2)
