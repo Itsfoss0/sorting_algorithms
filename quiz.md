@@ -63,3 +63,15 @@ What is the time complexity of accessing the nth element of a singly linked list
 * [ ] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #5
+What is the time complexity of the “push” operation onto a stack?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [X] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
+
