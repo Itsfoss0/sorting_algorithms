@@ -132,3 +132,15 @@ What is the time complexity of inserting into an unsorted Python 3 list at index
 * [ ] (nlog(n))
 * [ ] O(n^2)
 
+#### Question #9
+What is the time complexity of setting a value at index n in an unsorted array?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [X] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
+
+
