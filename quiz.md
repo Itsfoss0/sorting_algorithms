@@ -486,3 +486,14 @@ What is the time complexity of the “pop” operation onto a stack?
 * [ ] O(nlog(n))
 * [ ] O(n^2)
 
+#### Question #34
+What is the time complexity accessing the nth element in an unsorted Python 3 list?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [X] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
+
