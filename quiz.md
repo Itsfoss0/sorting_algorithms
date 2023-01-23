@@ -266,3 +266,14 @@ void f(int n)
 * [ ] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #19
+What is the time complexity of searching for an element in a doubly linked list of size n?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [X] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
