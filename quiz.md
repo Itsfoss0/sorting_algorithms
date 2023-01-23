@@ -234,3 +234,14 @@ Assuming you have a pointer to the node to remove, what is the time complexity o
 * [X] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2
+
+#### Question
+What is the best case time complexity of insertion in a hash table with the implementation you used during the previous Hash Table C project (chaining)?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
