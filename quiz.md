@@ -109,3 +109,15 @@ void f(int n)
 * [ ] O(1)
 * [ ] O(nlog(n))
 * [X] O(n^2)
+
+#### Question #7
+What is the time complexity of removing at index n from an unsorted Python 3 list?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [X] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
+
