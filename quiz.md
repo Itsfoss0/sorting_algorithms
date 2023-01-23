@@ -298,3 +298,14 @@ void f(int n)
 * [ ] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #21
+What is the time complexity of inserting at index n on an unsorted array?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [X] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
