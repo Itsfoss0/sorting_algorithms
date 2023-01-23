@@ -507,3 +507,14 @@ What is the time complexity of searching for an element in a stack of size n?
 * [ ] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #36
+What is the time complexity of “popping” an element in a queue if you are given a pointer to both the head and the tail of the queue?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(nlog(n))
+* [ ] O(n)
+* [X] O(1)
+* [ ] O(log(n))
+
