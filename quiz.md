@@ -223,3 +223,14 @@ What is the time complexity of accessing the nth element of a doubly linked list
 * [ ] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #16
+Assuming you have a pointer to the node to remove, what is the time complexity of removing the nth element of a doubly linked list?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [X] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2
