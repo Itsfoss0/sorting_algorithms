@@ -212,3 +212,14 @@ void f(unsigned int n)
 * [ ] O(1)
 * [X] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #15
+What is the time complexity of accessing the nth element of a doubly linked list?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [X] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
