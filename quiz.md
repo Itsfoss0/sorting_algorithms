@@ -336,3 +336,14 @@ void f(int n)
 * [X] (1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #24
+What is the time complexity of setting value at index n in an unsorted Python 3 list?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [X] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
