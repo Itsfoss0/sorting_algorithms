@@ -372,3 +372,14 @@ void f(int n)
 * [ ] O(1)
 * [ ] O(nlog(n))
 * [X] O(n^2)
+
+#### Question #26
+What is the time complexity of worst case deletion from a hash table with the implementation you used during the previous Hash Table C project (chaining)?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [X] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
