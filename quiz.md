@@ -1,0 +1,13 @@
+![ALX](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+> sorting algorithms quizes
+
+#### Question #0
+What is the time complexity of accessing the nth element on an unsorted array?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [X] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
