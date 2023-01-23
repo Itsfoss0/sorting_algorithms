@@ -409,3 +409,14 @@ def func(n):
 * [ ] O(nlog(n))
 * [X] O(n^2)
 
+#### Question #28
+What is the time complexity of searching for an element - worst case - in a hash table with the implementation you used during the previous Hash Table C project (chaining)?
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [X] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
+
+
