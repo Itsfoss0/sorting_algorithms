@@ -320,3 +320,19 @@ What is the time complexity of setting the value of the nth element in a singly 
 * [X] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #23
+What is the time complexity of the following function/algorithm
+```c
+void f(int n)
+{
+    printf("n = %d\n", n);
+}
+```
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [X] (1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
