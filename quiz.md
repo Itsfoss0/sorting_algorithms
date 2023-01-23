@@ -383,3 +383,29 @@ What is the time complexity of worst case deletion from a hash table with the im
 * [ ] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #27
+What is the time complexity of this algorithm
+```python
+def func(n):
+    a=5
+    b=6
+    c=10
+    for i in range(n):
+        for j in range(n):
+            x = i * i
+            y = j * j
+            z = i * j
+    for k in range(n):
+        w = a*k + 45
+        v = b*b
+    d = 33
+```
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [X] O(n^2)
+
