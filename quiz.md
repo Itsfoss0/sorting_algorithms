@@ -497,3 +497,13 @@ What is the time complexity accessing the nth element in an unsorted Python 3 li
 * [ ] O(nlog(n))
 * [ ] O(n^2)
 
+#### Question #35
+What is the time complexity of searching for an element in a stack of size n?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [X] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
