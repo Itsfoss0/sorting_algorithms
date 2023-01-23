@@ -121,3 +121,14 @@ What is the time complexity of removing at index n from an unsorted Python 3 lis
 * [ ] O(nlog(n))
 * [ ] O(n^2)
 
+#### Question #8
+What is the time complexity of inserting into an unsorted Python 3 list at index n?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [X] O(n)
+* [ ] O(1)
+* [ ] (nlog(n))
+* [ ] O(n^2)
+
