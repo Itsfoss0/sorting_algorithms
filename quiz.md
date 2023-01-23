@@ -541,3 +541,23 @@ What is the worst case time complexity of insertion in a hash table with the imp
 * [ ] O(nlog(n))
 * [ ] O(n^2)
 
+#### Question #39
+What is the time complexity of this algorithm
+```c
+void f(unsigned int n)
+{
+    int i;
+
+    for (i = 1; i < n; i = i * 2)
+    {
+        printf("[%d]\n", i);
+    }
+}
+```
+* [ ] O(n!)
+* [ ] O(2^n)
+* [X] O(log(n))
+* [ ] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
