@@ -277,3 +277,17 @@ What is the time complexity of searching for an element in a doubly linked list 
 * [ ] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #20
+What is the time complexity of the following algorithm/funciton
+```c
+void f(int n)
+{
+    int i;
+
+    for (i = 0; i < n; i += 98)
+    {
+        printf("[%d]\n", i);
+    }
+}
+```
