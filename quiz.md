@@ -419,4 +419,22 @@ What is the time complexity of searching for an element - worst case - in a hash
 * [ ] O(nlog(n))
 * [ ] O(n^2)
 
+#### Question #29
+What is the time complexity of “pushing” an element into a queue if you are given a pointer to both the head and the tail of the queue?
 
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [X] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
+
+#### Question #30
+What is the time complexity of this algorithm/function
+```bash
+foreach($numbers as $number)
+{
+    echo $number;
+}
+```
