@@ -143,4 +143,14 @@ What is the time complexity of setting a value at index n in an unsorted array?
 * [ ] O(nlog(n))
 * [ ] O(n^2)
 
+#### Question #10
+What is the time complexity of searching for an element in a queue of size n if you are given a pointer to both the head and the tail of the queue?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [X] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
 
