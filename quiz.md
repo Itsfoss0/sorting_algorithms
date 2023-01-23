@@ -22,3 +22,14 @@ What is the time complexity of removing at index n in an unsorted array?
 * [ ] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #2
+Assuming you have a pointer to the node to insert, what is the time complexity of inserting after the nth element of a doubly linked list?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [X] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
