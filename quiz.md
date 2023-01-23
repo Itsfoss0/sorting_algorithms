@@ -583,3 +583,14 @@ Assuming you have a pointer to the node to set the value of, what is the time co
 * [X] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #42
+What is the time complexity of inserting after the nth element of a singly linked list? (Assuming you have a pointer to the node to insert)
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [X] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
