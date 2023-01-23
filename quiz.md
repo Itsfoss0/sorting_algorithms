@@ -11,3 +11,14 @@ What is the time complexity of accessing the nth element on an unsorted array?
 * [X] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #1
+What is the time complexity of removing at index n in an unsorted array?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [X] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
