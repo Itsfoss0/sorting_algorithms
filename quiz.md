@@ -186,3 +186,29 @@ What is the time complexity of best case deletion from a hash table with the imp
 * [X] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+
+#### Question #14
+What is the time complexity of following algorithm
+```javascript
+void f(unsigned int n)
+{
+    int i;
+    int j;
+
+    for (i = 0; i < n; i++)
+    {
+        for (j = 1; j < n; j = j * 2)
+        {
+            printf("[%d] [%d]\n", i, j);
+        }
+    }
+}
+```
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [ ] O(1)
+* [X] O(nlog(n))
+* [ ] O(n^2)
