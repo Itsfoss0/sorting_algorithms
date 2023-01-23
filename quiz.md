@@ -33,3 +33,22 @@ Assuming you have a pointer to the node to insert, what is the time complexity o
 * [ ] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #3
+What is the time complexity of this function/algorithim?
+```javascript
+var factorial = function(n) {
+    if(n == 0) {
+        return 1
+    } else {
+        return n * factorial(n - 1);
+    }
+}
+```
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [X] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
