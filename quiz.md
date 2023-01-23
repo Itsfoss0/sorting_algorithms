@@ -438,3 +438,10 @@ foreach($numbers as $number)
     echo $number;
 }
 ```
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [X] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
