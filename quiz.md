@@ -572,3 +572,14 @@ What is the time complexity of searching for an element in a singly linked list 
 * [ ] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #41
+Assuming you have a pointer to the node to set the value of, what is the time complexity of setting the value of the nth element in a doubly linked list?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [X] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
