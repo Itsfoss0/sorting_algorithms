@@ -175,3 +175,14 @@ What is the best case time complexity searching for an element in a hash table w
 * [X] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
+
+#### Question #13
+What is the time complexity of best case deletion from a hash table with the implementation you used during the previous Hash Table C project (chaining)?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [X] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
