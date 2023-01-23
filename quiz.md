@@ -518,3 +518,13 @@ What is the time complexity of “popping” an element in a queue if you are gi
 * [X] O(1)
 * [ ] O(log(n))
 
+#### Question #36
+What is the time complexity of searching for an element in an unsorted array of size n?
+
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [ ] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
