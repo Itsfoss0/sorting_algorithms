@@ -235,13 +235,34 @@ Assuming you have a pointer to the node to remove, what is the time complexity o
 * [ ] O(nlog(n))
 * [ ] O(n^2
 
-#### Question
+#### Question #17
 What is the best case time complexity of insertion in a hash table with the implementation you used during the previous Hash Table C project (chaining)?
 
 * [ ] O(n!)
 * [ ] O(2^n)
 * [ ] O(log(n))
 * [ ] O(n)
+* [ ] O(1)
+* [ ] O(nlog(n))
+* [ ] O(n^2)
+
+#### Question #18
+What is the time complexity of this function/algorithm
+```c
+void f(int n)
+{
+    int i;
+
+    for (i = 0; i < n; i++)
+    {
+        printf("[%d]\n", i);
+    }
+}
+```
+* [ ] O(n!)
+* [ ] O(2^n)
+* [ ] O(log(n))
+* [X] O(n)
 * [ ] O(1)
 * [ ] O(nlog(n))
 * [ ] O(n^2)
