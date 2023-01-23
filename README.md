@@ -17,3 +17,11 @@ __Read or watch__:
 4. [15 Sorting algorithms in 6 minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
 5. [CS50's Algorithm exaplanation by David Malan](https://www.youtube.com/watch?v=yb0PY3LX2x8&t=2s)
 6. [All about sorting algorithms](https://www.geeksforgeeks.org/sorting-algorithms/)
+
+## Learning objectives
+By the end of this project, you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) __Without the help of Google__ the following 
+
+* [X] At least four different sorting algorithms
+* [X] What is the Big O notation, and how to evaluate the time complexity of an algorithm
+* [X] How to select the best sorting algorithm for a given input
+* [X] What is a stable sorting algorithm
